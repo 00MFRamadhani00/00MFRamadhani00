@@ -1,12 +1,5 @@
-### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani (javascript:void(0);)
-<style>
-  /* Tambahkan efek animasi saat mengarahkan kursor */
-  h2:hover {
-    color: #3498db; /* Warna teks saat dihover */
-    transform: scale(1.1);
-    transition: transform 0.3s ease, color 0.3s ease;
-  }
-</style>
+### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani (#)
+<a href="#" style="color: #3498db; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Muhammad Fadhilah Ramadhani</a>
 
 I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile! 😄
 
