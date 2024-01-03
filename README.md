@@ -1,10 +1,10 @@
-### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani
+### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani (javascript:void(0);)
 <style>
   /* Tambahkan efek animasi saat mengarahkan kursor */
   h2:hover {
     color: #3498db; /* Warna teks saat dihover */
-    transform: rotate(360deg);
-    transition: transform 0.5s ease;
+    transform: scale(1.1);
+    transition: transform 0.3s ease, color 0.3s ease;
   }
 </style>
 
