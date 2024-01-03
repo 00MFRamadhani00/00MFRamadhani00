@@ -22,8 +22,5 @@ I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile
 
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
 
-#### 👀 Profile Views:
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=00MFRamadhani00.00MFRamadhani00)
+![Animated Image](https://tenor.com/view/griseo-honkai-golden-courtyard-gif-27465509)
 
-#### 👥 Recent Visitors:
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=00MFRamadhani00.00MFRamadhani00)
