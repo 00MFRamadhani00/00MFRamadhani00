@@ -1,5 +1,4 @@
-### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani (#)
-<a href="#" style="color: #3498db; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Muhammad Fadhilah Ramadhani</a>
+### Hi there! 👋 I'm <span style="color: #3498db; transition: transform 0.3s ease;">Muhammad Fadhilah Ramadhani</span>
 
 I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile! 😄
 
