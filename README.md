@@ -21,3 +21,9 @@ I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_muhammadfdh_/)
 
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
+
+#### 👀 Profile Views:
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=00MFRamadhani00.00MFRamadhani00)
+
+#### 👥 Recent Visitors:
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=00MFRamadhani00.00MFRamadhani00)
