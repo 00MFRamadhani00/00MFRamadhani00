@@ -14,6 +14,7 @@ I'm a passionate [Students] from [Universitas Lampung]. Welcome to my GitHub pro
 
 #### 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=00MFRamadhani00&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00MFRamadhani00&layout=compact&theme=radical)](https://github.com/00MFRamadhani00)
 
 #### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fadhilah-ramadhani/)
