@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm <span style="color: #3498db;">Muhammad Fadhilah Ramadhani</span> 🚀
+### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani
 
 I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile! 😄
 
