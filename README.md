@@ -22,5 +22,5 @@ I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile
 
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
 
-![Animated Image](https://tenor.com/view/griseo-honkai-golden-courtyard-gif-27465509)
+![Animated Image](https://github.com/00MFRamadhani00/00MFRamadhani00/issues/1#issue-2063165457)
 
