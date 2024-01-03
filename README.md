@@ -1,4 +1,12 @@
 ### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani
+<style>
+  /* Tambahkan efek animasi saat mengarahkan kursor */
+  h2:hover {
+    color: #3498db; /* Warna teks saat dihover */
+    transform: rotate(360deg);
+    transition: transform 0.5s ease;
+  }
+</style>
 
 I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile! 😄
 
