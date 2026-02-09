@@ -26,9 +26,10 @@ I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile
 
 #### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=00MFRamadhani00&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00MFRamadhani00&layout=compact&theme=radical" alt="Top Langs" />
+<a href="https://github.com/00MFRamadhani00">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=00MFRamadhani00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=00MFRamadhani00&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 #### 🌐 Connect with Me:
