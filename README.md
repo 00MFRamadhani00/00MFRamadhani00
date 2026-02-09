@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Muhammad Fadhilah Ramadhani
 
-I'm a passionate Students from Universitas Lampung. Welcome to my GitHub profile! 😄
+I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 
 #### 🚀 Skills and Tools:
 <p align="left">
