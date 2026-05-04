@@ -72,4 +72,5 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 
 ---
 
-![Animated Image]([https://private-user-images.githubusercontent.com/92555706/293823139-e477a2cc-1aba-437d-af53-3783d49da588.gif](https://github.com/00MFRamadhani00/00MFRamadhani00/issues/1#issue-2063165457))
+![Animated Image]([https://github.com/00MFRamadhani00/00MFRamadhani00/issues/1#issue-2063165457])
+
