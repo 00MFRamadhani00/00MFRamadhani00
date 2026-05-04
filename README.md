@@ -7,37 +7,37 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 <table>
 <tr>
   
-<td width="30%" valign="top">
+<td bgcolor="white" width="30%" valign="top">
 <h4>🧠 AI / Data</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
 </p>
 </td>
 
-<td width="30%" valign="top">
+<td bgcolor="white" width="30%" valign="top">
 <h4>🌐 Web Development</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
 </p>
 </td>
 
-<td width="30%" valign="top">
+<td bgcolor="white" width="30%" valign="top">
 <h4>🛠️ Tools</h4>
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" style="background-color:white; padding:5px; border-radius:8px;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" />
 </p>
 </td>
 
