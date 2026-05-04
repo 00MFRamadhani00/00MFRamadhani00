@@ -7,7 +7,7 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 <table>
 <tr>
   
-<td bgcolor="white" width="30%" valign="top">
+<td bgcolor="#f8f9fa" width="33%" valign="top">
 <h4>🧠 AI / Data</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
@@ -20,7 +20,7 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 </p>
 </td>
 
-<td bgcolor="white" width="30%" valign="top">
+<td bgcolor="#f8f9fa" width="33%" valign="top">
 <h4>🌐 Web Development</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
@@ -30,7 +30,7 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 </p>
 </td>
 
-<td bgcolor="white" width="30%" valign="top">
+<td bgcolor="#f8f9fa" width="33%" valign="top">
 <h4>🛠️ Tools</h4>
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
