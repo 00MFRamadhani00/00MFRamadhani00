@@ -6,8 +6,8 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 
 <table>
 <tr>
+  
 <td width="50%" valign="top">
-
 <h4>🧠 AI / Data</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -18,10 +18,9 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
-
 </td>
-<td width="50%" valign="top">
 
+<td width="50%" valign="top">
 <h4>🌐 Web Development</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -29,7 +28,9 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
 </p>
+</td>
 
+<td width="50%" valign="top">
 <h4>🛠️ Tools</h4>
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
@@ -38,8 +39,8 @@ I'm an **AI Enthusiast & Aspiring Engineer**. Welcome to my GitHub profile! 😄
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
 </p>
-
 </td>
+
 </tr>
 </table>
 
